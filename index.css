@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+header{
+    display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: blueviolet;
+  justify-content: space-around;
+}
+body{
+    background-color: aliceblue;
+
+}
+h1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0%;
+    position: fixed;
+    color: black;
+
+}
+img#inova1{
+    border-radius: 40%;
+
+}
+p{
+    margin: 30px;
+}
